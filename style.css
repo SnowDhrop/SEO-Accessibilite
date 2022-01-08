@@ -13,6 +13,11 @@ button {
     outline: none!important;
 }
 
+#bloc-1-hero .col-sm-12{
+    background-color: #F3976C;
+    padding: 20px 0px;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -325,7 +330,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 22px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -520,6 +525,10 @@ button {
     box-shadow: none;
 }
 
+footer p, .icon-md{
+    color: #303030!important;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -687,7 +696,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
@@ -760,7 +769,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #555B60;
     padding: 40px 40px 40px 40px;
 }
 
@@ -782,16 +791,26 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
+}
+
+#bloc-5-cta .row{
+    background: #F3976C;
+    margin: 0px;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #303030;
+    color: #F3976C!important;
+}
+
+#bloc-3-what-i-do .tc-white{
+    color: white!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #656A6E!important;
     color: #FFFFFF!important;
 }
 
