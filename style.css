@@ -23,6 +23,10 @@ a:hover {
     cursor: pointer;
 }
 
+#bloc-6 .row{
+    background-color: #F3976C;
+    position: relative;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
